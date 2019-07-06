@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Akumina Developer Documentation Blog</title>
+        <link>https://akumina.github.io/blog</link>
+        <description>The best place to stay up-to-date with the latest Akumina Developer Documentation news and events.</description>
+        <lastBuildDate>Mon, 13 May 2019 06:00:00 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
+        <image>
+            <title>Akumina Developer Documentation Blog</title>
+            <url>https://akumina.github.io/img/ak-logo2.png</url>
+            <link>https://akumina.github.io/blog</link>
+        </image>
+        <copyright>Copyright © 2019 Akumina</copyright>
+        <item>
+            <title><![CDATA[Hello World]]></title>
+            <link>https://akumina.github.io/blog/2019/05/13/initial-commit-1.0.0.html</link>
+            <guid>https://akumina.github.io/blog/2019/05/13/initial-commit-1.0.0.html</guid>
+            <pubDate>Mon, 13 May 2019 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Hello World from the Akumina Developer Documentation blog!</p> <p>More info is forthcoming as this post is from the initial commit.</p> ]]></description>
+        </item>
+    </channel>
+</rss>

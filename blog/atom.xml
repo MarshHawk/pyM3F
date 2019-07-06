@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://akumina.github.io/blog</id>
+    <title>Akumina Developer Documentation Blog</title>
+    <updated>2019-05-13T06:00:00Z</updated>
+    <generator>Feed for Node.js</generator>
+    <link rel="alternate" href="https://akumina.github.io/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest Akumina Developer Documentation news and events.</subtitle>
+    <logo>https://akumina.github.io/img/ak-logo2.png</logo>
+    <rights>Copyright © 2019 Akumina</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <id>https://akumina.github.io/blog/2019/05/13/initial-commit-1.0.0.html</id>
+        <link href="https://akumina.github.io/blog/2019/05/13/initial-commit-1.0.0.html">
+        </link>
+        <updated>2019-05-13T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Hello World from the Akumina Developer Documentation blog!</p> <p>More info is forthcoming as this post is from the initial commit.</p> ]]></summary>
+        <author>
+            <name>Sean Glover</name>
+            <uri>https://github.com/MarshHawk</uri>
+        </author>
+    </entry>
+</feed>
